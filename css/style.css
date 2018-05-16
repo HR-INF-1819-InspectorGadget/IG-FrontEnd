@@ -1,0 +1,53 @@
+.BigLogo {
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    max-height: 250px;
+    border: 2px solid #000000;
+}
+
+body {
+    background-color: #EEEEEE;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+.LogoContainer {
+    text-align: center;
+}
+
+.SearchBar {
+    margin: 25px auto 0;
+}
+
+.SearchBar input {
+    margin-bottom: 5px;
+    height: 40px;
+    width: 100%;
+}
+
+.SearchBox {
+    padding: 0 5px 0 5px;
+}
+
+.SearchButton {
+    background-color: #CCCCCC;
+    border: 0;
+}
+
+.SearchButton:hover {
+    background-color: #AAAAAA;
+    cursor: hand;
+    cursor: pointer;
+}
+
+.SearchLabel {
+    padding-top: 10px;
+}
+
+.TopContainer {
+    margin-top: 25px;
+}
